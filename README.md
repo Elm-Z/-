@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+# 欢迎来到我的项目主页
 
-You can use the [editor on GitHub](https://github.com/Elm-Z/-/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+![](/images/logo.png)
+![Alt Text](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1574503526370&di=324ae700803dbe0732b1f033fd5679b1&imgtype=0&src=http%3A%2F%2Fb-ssl.duitang.com%2Fuploads%2Fitem%2F201707%2F05%2F20170705162745_jEavW.png)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+*下学期选修移动程序设计，我将会用GitHub托管所有的课程作品，这个主页将提供便捷入口*
 
-### Markdown
+## 目前作品：
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+* [扫雷](https://github.com/Elm-Z/-)
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+*谢谢你的到来，你也可以点击右上角按钮访问我的GitHub主页*
 
-- Bulleted
-- List
+**ありがとうございます**
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Elm-Z/-/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+![](/images/logo.jpg)
+![Alt Text](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1574504508170&di=1126470e53d3d362919bf39d98a6e5fd&imgtype=jpg&src=http%3A%2F%2Fimg0.imgtn.bdimg.com%2Fit%2Fu%3D2382420800%2C1596718809%26fm%3D214%26gp%3D0.jpg)
