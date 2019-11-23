@@ -7,7 +7,9 @@
 
 ## 目前作品：
 
-* [扫雷](https://github.com/Elm-Z/Elm-project/)
+### 扫雷
+* [代码查看](https://github.com/Elm-Z/Elm-project/blob/master/%E6%89%AB%E9%9B%B7.c)
+* [程序下载](https://github.com/Elm-Z/Elm-project/blob/master/%E6%89%AB%E9%9B%B7.exe)
 
 
 *谢谢你的到来，你也可以点击右上角按钮访问我的GitHub主页*
