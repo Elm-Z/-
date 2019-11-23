@@ -7,7 +7,7 @@
 
 ## 目前作品：
 
-* [扫雷](https://github.com/Elm-Z/-)
+* [扫雷](https://github.com/Elm-Z/Elm-project/)
 
 
 *谢谢你的到来，你也可以点击右上角按钮访问我的GitHub主页*
